@@ -21,3 +21,10 @@ git branch
 '''sh
 git branch <имя_ветки>
 '''
+Создание новой ветки
+'''sh
+git branch <name branch>
+'''sh
+Удаление ветки
+'''sh
+git branch -d <name branch>

@@ -11,7 +11,7 @@ git log
 git log --oneline
 
 
-git checkout
+git checkoutq
 '''
 Отображение всеx веток
 '''sh

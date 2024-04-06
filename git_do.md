@@ -9,4 +9,4 @@ git add
 git commit - "Message"
 git log
 git log --oneline
-git checkout
+git checkout <имя ветки>

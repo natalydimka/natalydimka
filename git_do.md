@@ -9,10 +9,11 @@ git add
 git commit - "Message"
 git log
 git log --oneline
-git checkout <имя ветки>
-'''
 
-Отображение всех веток
+
+git checkout
+'''
+Отображение всеx веток
 '''sh
-git branch <branch name>
+git branch 
 '''

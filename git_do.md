@@ -6,7 +6,7 @@ git init
 '''
 
 git add
-git commit - "Message"
+git commit - "Message text"
 git log
 git log --oneline
 
